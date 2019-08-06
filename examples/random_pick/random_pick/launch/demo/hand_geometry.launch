@@ -9,7 +9,6 @@
   <arg name="node" />
   
   <param name="$(arg node)/finger_width" value="0.005" />
-<!-- <param name="$(arg node)/hand_outer_diameter" value="0.09" /> -->
   <param name="$(arg node)/hand_outer_diameter" value="0.1" /> 
   <param name="$(arg node)/hand_depth" value="0.09" />
   <param name="$(arg node)/hand_height" value="0.02" />

@@ -72,3 +72,5 @@ moveit_example_apps/tutorials/
 ├── CMakeLists.txt
 └── package.xml
 ```
+
+[![Build Status](https://travis-ci.org/ros-planning/moveit_example_apps.svg?branch=master)](https://travis-ci.org/ros-planning/moveit_example_apps)
