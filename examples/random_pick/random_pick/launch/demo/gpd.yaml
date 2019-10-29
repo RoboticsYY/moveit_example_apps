@@ -46,6 +46,6 @@ min_inliers: 1
 
 # Grasp selection
 min_score_diff: 0
-min_aperture: 0.029
+min_aperture: 0.0
 max_aperture: 0.072
 num_selected: 5
